@@ -17,31 +17,23 @@
 </div>
 <hr>
 
-### Main tools  :
-
-### Data Science  :
+### <div align="center">Main Tools</div>
 
 <div align="center">
- <img src="https://img.icons8.com/?size=128&id=13441&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=fO5yVwARGUEB&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=n3QRpDA7KZ7P&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=jH4BpkMnRrU5&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=13441&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=fO5yVwARGUEB&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=n3QRpDA7KZ7P&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=jH4BpkMnRrU5&format=png"/>
 </div>
-
-### Software/Web Dev  :
-
 <div align="center">
- <img src="https://img.icons8.com/?size=128&id=mUBILbYvUMq8&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=122637&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=eEcVfg97Tj3J&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=1BC75jFEBED6&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=mUBILbYvUMq8&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=122637&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=eEcVfg97Tj3J&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=1BC75jFEBED6&format=png"/>
 </div>
-
-### DataBase & API  :
-
 <div align="center">
- <img src="https://img.icons8.com/?size=128&id=11572&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=36681&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=74402&format=png"/>
- <img src="https://img.icons8.com/?size=128&id=38561&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=11572&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=36681&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=74402&format=png"/>
+ <img src="https://img.icons8.com/?size=64&id=38561&format=png"/>
 </div>
