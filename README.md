@@ -16,11 +16,7 @@ Passionate about turning data into actionable insights and building robust softw
 
 🔗 Connect with me on LinkedIn to stay updated on my latest projects and musings.
 
-<div align="left">
- <a href="https://www.facebook.com/MrRoll11/"><img src="https://img.icons8.com/?size=64&id=118497&format=png"/></a>
- <a href="https://www.instagram.com/mouheb.ba/"><img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png"/></a>
- <a href="https://www.linkedin.com/in/mouhebba/"><img src="https://img.icons8.com/?size=64&id=13930&format=png"/></a>
-</div>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhebba/)
 <hr>
 
 ### <div align="center">Tools & Technologies</div>
