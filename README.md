@@ -3,22 +3,27 @@
 </div>
 
 ### <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="30px"> Hi, I’m @mouhebba 👨🏻‍💻👨🏻‍💻
-### 🧠 Data Scientist 
-- Machine Learning, NLP, Data Anaylsis
-### 👨‍💻 Software Engineer
-- Software/Backend Developer
+### 🚀 Data Scientist & Developer
+Passionate about turning data into actionable insights and building robust software solutions.
 
-### 📫 How to reach me...
+📊 I specialize in Machine Learning, Data Analysis and Full Stack Dev.
+
+💻 Currently honing my skills in Django, TensorFlow, Selenium, Postgres and React.js].
+
+🌐 Open source enthusiast, always excited to collaborate on interesting projects.
+
+📚 Constantly learning and exploring new ways to leverage technology for solving real-world problems.
+
+🔗 Connect with me on LinkedIn to stay updated on my latest projects and musings.
 
 <div align="left">
- <a href="https://www.facebook.com/MrRoll11/"><img src="https://img.icons8.com/?size=128&id=118497&format=png"/></a>
- <a href="https://www.instagram.com/mouheb.ba/"><img src="https://img.icons8.com/?size=128&id=Xy10Jcu1L2Su&format=png"/></a>
- <a href="https://www.linkedin.com/in/mouhebba/"><img src="https://img.icons8.com/?size=128&id=13930&format=png"/></a>
+ <a href="https://www.facebook.com/MrRoll11/"><img src="https://img.icons8.com/?size=64&id=118497&format=png"/></a>
+ <a href="https://www.instagram.com/mouheb.ba/"><img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png"/></a>
+ <a href="https://www.linkedin.com/in/mouhebba/"><img src="https://img.icons8.com/?size=64&id=13930&format=png"/></a>
 </div>
 <hr>
 
-### <div align="center">Main Tools</div>
-
+### <div align="center">Tools & Technologies</div>
 <div align="center">
  <img src="https://img.icons8.com/?size=64&id=13441&format=png"/>
  <img src="https://img.icons8.com/?size=64&id=fO5yVwARGUEB&format=png"/>
