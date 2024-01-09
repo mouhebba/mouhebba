@@ -8,7 +8,7 @@ Passionate about turning data into actionable insights and building robust softw
 
 📊 I specialize in Machine Learning, Data Analysis and Full Stack Dev.
 
-💻 Currently honing my skills in Django, TensorFlow, Selenium, Postgres and React.js].
+💻 Currently honing my skills in Django, TensorFlow, Selenium, Postgres and React.
 
 🌐 Open source enthusiast, always excited to collaborate on interesting projects.
 
